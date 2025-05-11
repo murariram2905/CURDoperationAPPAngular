@@ -1,0 +1,64 @@
+.mob-table {
+    width: 800px;
+    padding: 20px 25px;
+   
+    margin: 30px auto;
+    border-radius: 3px;
+    border: 1px solid red;
+}
+.headers {
+    display: flex;
+    background-color: #435d7d;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 16px 30px;
+    
+}
+.add{
+    background-color: #5cb85c;
+    color: white;
+}
+thead {
+    border-bottom: 2px solid black;
+    
+}
+.form-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    background-color: rgb(0, 0, 0,0.5);
+}
+
+.mobile-form{
+    background-color: white;
+    width: 600px;
+    padding: 20px 50px;
+    border-radius: 5px;
+}
+.form-Control{
+    width: 90%;
+}
+.group{
+    display: flex;
+    margin: 15px 0;
+}
+
+.group label {
+    width: 60px;
+    line-height: 40px;
+    height: 40px;
+}
+
+.action {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin: 20px;
+}

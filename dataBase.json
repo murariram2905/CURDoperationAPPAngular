@@ -1,0 +1,32 @@
+{
+  "mobiles": [
+    {
+      "name": "iPhone",
+      "price": "1,00,000",
+      "ram": 8,
+      "storage": 128,
+      "id": "2"
+    },
+    {
+      "id": "764b",
+      "name": "poco",
+      "price": "22,999",
+      "ram": "8",
+      "storage": "256"
+    },
+    {
+      "id": "e121",
+      "name": "samsung",
+      "price": "20,000",
+      "ram": "8",
+      "storage": "256"
+    },
+    {
+      "id": "f942",
+      "name": "vivo",
+      "price": "29,999",
+      "ram": "16",
+      "storage": "256"
+    }
+  ]
+}
